@@ -1,0 +1,47 @@
+{
+    "IACarController": {
+        "checkpoints": [
+            {
+                "steps": 15498674,
+                "file_path": "results\\Track1RewardOnly\\IACarController\\IACarController-15498674.onnx",
+                "reward": null,
+                "creation_time": 1628344236.546634
+            },
+            {
+                "steps": 15499008,
+                "file_path": "results\\Track1RewardOnly\\IACarController\\IACarController-15499008.onnx",
+                "reward": -10.0,
+                "creation_time": 1628414128.0359244
+            },
+            {
+                "steps": 15999031,
+                "file_path": "results\\Track1RewardOnly\\IACarController\\IACarController-15999031.onnx",
+                "reward": null,
+                "creation_time": 1628414671.2420423
+            },
+            {
+                "steps": 16499426,
+                "file_path": "results\\Track1RewardOnly\\IACarController\\IACarController-16499426.onnx",
+                "reward": null,
+                "creation_time": 1628415186.1012704
+            },
+            {
+                "steps": 16550919,
+                "file_path": "results\\Track1RewardOnly\\IACarController\\IACarController-16550919.onnx",
+                "reward": null,
+                "creation_time": 1628415244.1544042
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 16550919,
+            "file_path": "results\\Track1RewardOnly\\IACarController.onnx",
+            "reward": null,
+            "creation_time": 1628415244.1544042
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.9.0+cpu"
+    }
+}

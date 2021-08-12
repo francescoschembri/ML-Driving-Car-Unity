@@ -1,0 +1,23 @@
+{
+    "IACarController": {
+        "checkpoints": [
+            {
+                "steps": 212976,
+                "file_path": "results\\SteerRightCircular\\IACarController\\IACarController-212976.onnx",
+                "reward": null,
+                "creation_time": 1628324198.1050782
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 212976,
+            "file_path": "results\\SteerRightCircular\\IACarController.onnx",
+            "reward": null,
+            "creation_time": 1628324198.1050782
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.9.0+cpu"
+    }
+}

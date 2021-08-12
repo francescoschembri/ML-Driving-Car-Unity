@@ -1,0 +1,29 @@
+{
+    "IACarController": {
+        "checkpoints": [
+            {
+                "steps": 404621,
+                "file_path": "results\\SteerLeftBox\\IACarController\\IACarController-404621.onnx",
+                "reward": -9.661764705882353,
+                "creation_time": 1628322562.936003
+            },
+            {
+                "steps": 467646,
+                "file_path": "results\\SteerLeftBox\\IACarController\\IACarController-467646.onnx",
+                "reward": null,
+                "creation_time": 1628322664.4168704
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 467646,
+            "file_path": "results\\SteerLeftBox\\IACarController.onnx",
+            "reward": null,
+            "creation_time": 1628322664.4168704
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.9.0+cpu"
+    }
+}

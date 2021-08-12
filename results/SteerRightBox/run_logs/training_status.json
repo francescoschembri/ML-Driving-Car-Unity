@@ -1,0 +1,47 @@
+{
+    "IACarController": {
+        "checkpoints": [
+            {
+                "steps": 999291,
+                "file_path": "results\\SteerRightBox\\IACarController\\IACarController-999291.onnx",
+                "reward": -9.085714340209961,
+                "creation_time": 1628320344.9778666
+            },
+            {
+                "steps": 1157787,
+                "file_path": "results\\SteerRightBox\\IACarController\\IACarController-1157787.onnx",
+                "reward": null,
+                "creation_time": 1628320575.5768862
+            },
+            {
+                "steps": 1499705,
+                "file_path": "results\\SteerRightBox\\IACarController\\IACarController-1499705.onnx",
+                "reward": -8.399999976158142,
+                "creation_time": 1628321002.5305505
+            },
+            {
+                "steps": 1999061,
+                "file_path": "results\\SteerRightBox\\IACarController\\IACarController-1999061.onnx",
+                "reward": null,
+                "creation_time": 1628321559.728906
+            },
+            {
+                "steps": 2390169,
+                "file_path": "results\\SteerRightBox\\IACarController\\IACarController-2390169.onnx",
+                "reward": null,
+                "creation_time": 1628321984.4270833
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2390169,
+            "file_path": "results\\SteerRightBox\\IACarController.onnx",
+            "reward": null,
+            "creation_time": 1628321984.4270833
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.9.0+cpu"
+    }
+}
